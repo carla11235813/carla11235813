@@ -1,5 +1,10 @@
 ## olá👋, eu me chamo Carla Oliveira!
-**Sou entusiasta da programação explorando o vasto mundo do código para transformar ideias em realidade. Sempre em busca de aprender e aprimorar minhas habilidades. 🚀💻**
+
+<div style="display: flex"> <br>
+    <p>Sou entusiasta da programação explorando o vasto mundo do código para transformar ideias em realidade. Sempre em busca de aprender e aprimorar minhas habilidades. 🚀💻</p>
+    <img height="200rem" src="https://github.com/carla11235813/carla11235813/assets/111895486/c99c68e2-10c6-45b4-9259-7ebcb79df18f"/>  
+</div>
+
 
 ### 💻Ferramentas e Tecnologias:
 <div>
@@ -16,17 +21,21 @@
   <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
 
-<br/><br/>
+
+<br><br>
 
 <div>
 <a href="https://github.com/carla11235813">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carla11235813&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carla11235813&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carla11235813&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carla11235813&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <br/><br/>
 
- ![Snake animation](https://github.com/carla11235813/carla11235813/blob/output/github-contribution-grid-snake.svg)  
+
+
+
+<!-- ![Snake animation](https://github.com/carla11235813/carla11235813/blob/output/github-contribution-grid-snake.svg)  -->
 <!--
 **carla11235813/carla11235813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
