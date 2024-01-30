@@ -2,7 +2,7 @@
 
 <div style="display: flex"> <br>
     <p>Sou entusiasta da programação explorando o vasto mundo do código para transformar ideias em realidade. Sempre em busca de aprender e aprimorar minhas habilidades. 🚀💻</p>
-    <img height="200rem" src="https://github.com/carla11235813/carla11235813/assets/111895486/c99c68e2-10c6-45b4-9259-7ebcb79df18f"/>  
+    <!--<img height="200rem" src="https://github.com/carla11235813/carla11235813/assets/111895486/c99c68e2-10c6-45b4-9259-7ebcb79df18f"/> -->  
 </div>
 
 
