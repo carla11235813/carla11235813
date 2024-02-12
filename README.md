@@ -1,4 +1,4 @@
-## olá👋, eu me chamo Carla Oliveira!
+## olá👋, me chamo Carla
 
 <p>Sou entusiasta da programação explorando o vasto mundo do código para transformar ideias em realidade. Sempre em busca de aprender e aprimorar minhas habilidades. 🚀💻</p>
 
